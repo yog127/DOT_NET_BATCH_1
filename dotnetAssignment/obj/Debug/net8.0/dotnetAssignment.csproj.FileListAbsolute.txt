@@ -1,0 +1,28 @@
+D:\all pdf\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.exe
+D:\all pdf\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.deps.json
+D:\all pdf\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.runtimeconfig.json
+D:\all pdf\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.dll
+D:\all pdf\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.pdb
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.AssemblyInfoInputs.cache
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.AssemblyInfo.cs
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.csproj.CoreCompileInputs.cache
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.dll
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\refint\dotnetAssignment.dll
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.pdb
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.genruntimeconfig.cache
+D:\all pdf\Dotnet\dotnetAssignment\obj\Debug\net8.0\ref\dotnetAssignment.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.AssemblyInfoInputs.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.AssemblyInfo.cs
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\refint\dotnetAssignment.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.pdb
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.exe
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.deps.json
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.runtimeconfig.json
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\bin\Debug\net8.0\dotnetAssignment.pdb
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\dotnetAssignment.genruntimeconfig.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\dotnetAssignment\obj\Debug\net8.0\ref\dotnetAssignment.dll
