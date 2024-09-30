@@ -1,0 +1,4 @@
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que2\obj\Debug\net8.0\Que2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que2\obj\Debug\net8.0\Que2.AssemblyInfoInputs.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que2\obj\Debug\net8.0\Que2.AssemblyInfo.cs
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que2\obj\Debug\net8.0\Que2.csproj.CoreCompileInputs.cache

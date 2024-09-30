@@ -1,0 +1,14 @@
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.AssemblyInfoInputs.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.AssemblyInfo.cs
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.csproj.CoreCompileInputs.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\bin\Debug\net8.0\Que1.exe
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\bin\Debug\net8.0\Que1.deps.json
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\bin\Debug\net8.0\Que1.runtimeconfig.json
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\bin\Debug\net8.0\Que1.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\bin\Debug\net8.0\Que1.pdb
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\refint\Que1.dll
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.pdb
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\Que1.genruntimeconfig.cache
+C:\Users\dell9\OneDrive\Desktop\Dotnet\Que1\obj\Debug\net8.0\ref\Que1.dll
